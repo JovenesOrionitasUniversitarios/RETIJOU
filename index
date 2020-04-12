@@ -25,9 +25,8 @@ newimg = img4
 }else{
 newimg = img5
 }
-document.write('<IMG SRC="'+newimg+'"width= 50% height=50% border="2" align="absmiddle">')
+document.write('<IMG SRC="'+newimg+'"width= 60% height=80% border="2" align="absmiddle">')
 </script>
 
-<h3> Hello world </h3>
   </body>
 </html>
